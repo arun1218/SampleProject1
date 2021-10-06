@@ -1,0 +1,76 @@
+
+.welle{
+	margin-top: 5%;
+	background-color: gold;
+	text-align: center;
+}
+.well-bg{
+	background-color: white;
+	text-align: center;
+
+}
+.remit{
+	text-align: center;
+	margin-top: 5%;
+	font-size: 25px;
+}
+.block{
+	
+}
+
+.box
+{
+	border: 1px solid black;
+	width: 100%;
+	height: 50%;
+	margin: 100px;
+	text-align: center;
+}
+.btn-size
+{
+	width: 25%;
+	height: 100px;
+	margin: 30px;
+}
+.well-size
+{
+	width: 50%;
+}
+.mob-img{
+	margin-left: 50%;
+	width: 25px;
+	height: 100%;
+	margin-bottom: 5%;
+}
+.map-container-4{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-4 iframe{
+left:30;
+top:15;
+height:50%;
+width:100%;
+position:absolute;
+}
+.foot{
+	background-color: black;
+}
+.footer-section{
+	background-color: black;
+}
+.footer-content{
+
+}
+.footer-ul,.footer-widget-heading{
+	display: inline;
+	overflow: hidden;
+	line-style-type: none;
+}
+.footer-menu{
+	display: inline;
+	overflow: hidden;
+		line-style-type: none;	
+}
